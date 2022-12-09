@@ -1,5 +1,9 @@
 # CloudOS
 Getting the IPv4, IPv6 from the User via discord webhook
+
+# requirement
+https://nodejs.org/en/
+
 # Install
 1. `npm i cpu-features`
 2. `npm i discord-webhook-node`
