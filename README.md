@@ -1,4 +1,4 @@
-# CloudOS
+# itGrabber
 ![ip](https://user-images.githubusercontent.com/77588421/206798535-64fd750c-4597-4814-b011-384c6d28c06f.png)   ![cpu](https://user-images.githubusercontent.com/77588421/206798555-3dd54707-5c3f-42bc-89bc-22220e0ff907.png)  ![deskto](https://user-images.githubusercontent.com/77588421/206798582-433fc872-5b77-4ecf-a077-b1f69b89992c.png) ![icons8-discord-50 (1)](https://user-images.githubusercontent.com/77588421/206798692-71088161-4e14-4578-a92d-8b330740a6be.png)
 
 
