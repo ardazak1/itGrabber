@@ -15,7 +15,7 @@ https://nodejs.org/en/
 # Start
 Open your command line and type `node index.js`
 
-# How to make .exe ![icons8-exe-24](https://user-images.githubusercontent.com/77588421/206798846-f7bfd416-f9bd-4877-8fd7-30271ea1d1b8.png)
+# How to make .exe ![icons8-exe-32](https://user-images.githubusercontent.com/77588421/206798909-cfaa23d4-bd52-4632-8340-72fa59b9191f.png)
 
 1. Open your command line and type `pkg index.js`
 
