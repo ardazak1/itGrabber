@@ -1,7 +1,7 @@
 # CloudOS
 Getting the IPv4, IPv6 from the User via discord webhook
 
-# requirement
+# Requirement
 https://nodejs.org/en/
 
 # Install
