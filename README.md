@@ -11,6 +11,7 @@ https://nodejs.org/en/
 1. `npm i cpu-features`
 2. `npm i discord-webhook-node`
 3. `npm i ip`
+4. put your discord webhook link into the code
 
 # Start
 Open your command line and type `node index.js`
